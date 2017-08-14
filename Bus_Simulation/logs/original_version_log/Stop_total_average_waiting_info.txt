@@ -1,0 +1,15 @@
+stop 0  max average waiting length is 711.333  min average waiting length is 54.9375  total average waiting length is 251.639
+stop 1  max average waiting length is 508.333  min average waiting length is 52.3667  total average waiting length is 234.784
+stop 2  max average waiting length is 666  min average waiting length is 53.6875  total average waiting length is 237.646
+stop 3  max average waiting length is 712.4  min average waiting length is 60.6333  total average waiting length is 271.22
+stop 4  max average waiting length is 802  min average waiting length is 55.9333  total average waiting length is 295.681
+stop 5  max average waiting length is 994  min average waiting length is 56.75  total average waiting length is 340.233
+stop 6  max average waiting length is 909.667  min average waiting length is 55.6875  total average waiting length is 305.957
+stop 7  max average waiting length is 769.333  min average waiting length is 46.5333  total average waiting length is 280.748
+stop 8  max average waiting length is 590  min average waiting length is 51.25  total average waiting length is 249.142
+stop 9  max average waiting length is 606.25  min average waiting length is 51.8438  total average waiting length is 238.844
+stop 10  max average waiting length is 679.75  min average waiting length is 52.9688  total average waiting length is 274.896
+stop 11  max average waiting length is 779  min average waiting length is 54.8125  total average waiting length is 269.996
+stop 12  max average waiting length is 840.667  min average waiting length is 59.5938  total average waiting length is 317.142
+stop 13  max average waiting length is 979  min average waiting length is 55.3125  total average waiting length is 323.256
+stop 14  max average waiting length is 821.667  min average waiting length is 52.1875  total average waiting length is 282.88
