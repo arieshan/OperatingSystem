@@ -1,0 +1,24 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * *
+*  course       :  Operating System              *
+*  First Name   :  Xiaohan                       *
+*  Last Name    :  Chang                         *
+*  Subject      :  Bus_Simulation                *
+* * * * * * * * * * * * * ** * * * * * * * * * * */
+
+
+The HomeWork uses visual studio 2015 and C++11 standard. Please
+
+use VS2015 to open the project in projects folder and run the project. 
+
+The project and Source Code folder contain the whole VS project and source code. 
+
+
+There are 3 folders
+
+Project: contains the whole problem 1 project and the souce codes are in the 
+
+	Project\ConsoleApplication22\ConsoleApplication22\
+
+Source Code: contains the source code of problem 1
+
+Report: contains word and pdf report. 
