@@ -1,0 +1,414 @@
+Simulation 	FCFS
+Simulation time is 	37.9719	 minutes
+The Average waiting time of 	FCFS	 is 27.9867	 minutes
+The Average turnaround time of 	FCFS	 is 31.1072	 minutes
+The Average CPU utilization of 	FCFS	 is 0.821789
+Throughput rate is 	15.8012/hour
+Simulation 	SJF_alpha_=_1
+Simulation time is 	38.1159	 minutes
+The Average waiting time of 	SJF_alpha_=_1	 is 27.8752	 minutes
+The Average turnaround time of 	SJF_alpha_=_1	 is 30.9957	 minutes
+The Average CPU utilization of 	SJF_alpha_=_1	 is 0.818684
+Throughput rate is 	15.7415/hour
+Simulation 	SJF_alpha_=_0_5
+Simulation time is 	37.8229	 minutes
+The Average waiting time of 	SJF_alpha_=_0_5	 is 28.1265	 minutes
+The Average turnaround time of 	SJF_alpha_=_0_5	 is 31.247	 minutes
+The Average CPU utilization of 	SJF_alpha_=_0_5	 is 0.825027
+Throughput rate is 	15.8634/hour
+Simulation 	SJF_alpha_=_0_3333
+Simulation time is 	38.0199	 minutes
+The Average waiting time of 	SJF_alpha_=_0_3333	 is 28.1705	 minutes
+The Average turnaround time of 	SJF_alpha_=_0_3333	 is 31.291	 minutes
+The Average CPU utilization of 	SJF_alpha_=_0_3333	 is 0.820752
+Throughput rate is 	15.7812/hour
+Simulation 	RR_quantum_=_25
+Simulation time is 	40.7364	 minutes
+The Average waiting time of 	RR_quantum_=_25	 is 33.4136	 minutes
+The Average turnaround time of 	RR_quantum_=_25	 is 36.367	 minutes
+The Average CPU utilization of 	RR_quantum_=_25	 is 0.724988
+Throughput rate is 	14.7288/hour
+Simulation 	RR_quantum_=_30
+Simulation time is 	38.4337	 minutes
+The Average waiting time of 	RR_quantum_=_30	 is 30.7979	 minutes
+The Average turnaround time of 	RR_quantum_=_30	 is 33.6372	 minutes
+The Average CPU utilization of 	RR_quantum_=_30	 is 0.738745
+Throughput rate is 	15.6113/hour
+Simulation 	RR_quantum_=_35
+Simulation time is 	38.0506	 minutes
+The Average waiting time of 	RR_quantum_=_35	 is 29.4231	 minutes
+The Average turnaround time of 	RR_quantum_=_35	 is 32.2867	 minutes
+The Average CPU utilization of 	RR_quantum_=_35	 is 0.752567
+Throughput rate is 	15.7685/hour
+Simulation 	RR_quantum_=_40
+Simulation time is 	42.9225	 minutes
+The Average waiting time of 	RR_quantum_=_40	 is 32.1064	 minutes
+The Average turnaround time of 	RR_quantum_=_40	 is 35.3453	 minutes
+The Average CPU utilization of 	RR_quantum_=_40	 is 0.754581
+Throughput rate is 	13.9787/hour
+Simulation 	RR_quantum_=_45
+Simulation time is 	36.8159	 minutes
+The Average waiting time of 	RR_quantum_=_45	 is 30.4437	 minutes
+The Average turnaround time of 	RR_quantum_=_45	 is 33.4013	 minutes
+The Average CPU utilization of 	RR_quantum_=_45	 is 0.803346
+Throughput rate is 	16.2973/hour
+Simulation 	RR_quantum_=_50
+Simulation time is 	38.2568	 minutes
+The Average waiting time of 	RR_quantum_=_50	 is 31.4963	 minutes
+The Average turnaround time of 	RR_quantum_=_50	 is 34.5938	 minutes
+The Average CPU utilization of 	RR_quantum_=_50	 is 0.809655
+Throughput rate is 	15.6835/hour
+Simulation 	RR_quantum_=_55
+Simulation time is 	38.068	 minutes
+The Average waiting time of 	RR_quantum_=_55	 is 28.0123	 minutes
+The Average turnaround time of 	RR_quantum_=_55	 is 31.0002	 minutes
+The Average CPU utilization of 	RR_quantum_=_55	 is 0.784885
+Throughput rate is 	15.7613/hour
+Simulation 	RR_quantum_=_60
+Simulation time is 	38.6706	 minutes
+The Average waiting time of 	RR_quantum_=_60	 is 29.4054	 minutes
+The Average turnaround time of 	RR_quantum_=_60	 is 32.4942	 minutes
+The Average CPU utilization of 	RR_quantum_=_60	 is 0.798762
+Throughput rate is 	15.5156/hour
+Simulation 	RR_quantum_=_65
+Simulation time is 	36.8207	 minutes
+The Average waiting time of 	RR_quantum_=_65	 is 28.7524	 minutes
+The Average turnaround time of 	RR_quantum_=_65	 is 31.7752	 minutes
+The Average CPU utilization of 	RR_quantum_=_65	 is 0.820943
+Throughput rate is 	16.2952/hour
+Simulation 	RR_quantum_=_70
+Simulation time is 	36.3358	 minutes
+The Average waiting time of 	RR_quantum_=_70	 is 25.7969	 minutes
+The Average turnaround time of 	RR_quantum_=_70	 is 28.597	 minutes
+The Average CPU utilization of 	RR_quantum_=_70	 is 0.770612
+Throughput rate is 	16.5126/hour
+Simulation 	RR_quantum_=_75
+Simulation time is 	32.1705	 minutes
+The Average waiting time of 	RR_quantum_=_75	 is 23.1171	 minutes
+The Average turnaround time of 	RR_quantum_=_75	 is 25.6372	 minutes
+The Average CPU utilization of 	RR_quantum_=_75	 is 0.783342
+Throughput rate is 	18.6506/hour
+Simulation 	RR_quantum_=_80
+Simulation time is 	36.9239	 minutes
+The Average waiting time of 	RR_quantum_=_80	 is 27.7267	 minutes
+The Average turnaround time of 	RR_quantum_=_80	 is 30.7347	 minutes
+The Average CPU utilization of 	RR_quantum_=_80	 is 0.814646
+Throughput rate is 	16.2496/hour
+Simulation 	RR_quantum_=_85
+Simulation time is 	33.5377	 minutes
+The Average waiting time of 	RR_quantum_=_85	 is 24.9752	 minutes
+The Average turnaround time of 	RR_quantum_=_85	 is 27.7042	 minutes
+The Average CPU utilization of 	RR_quantum_=_85	 is 0.813702
+Throughput rate is 	17.8903/hour
+Simulation 	RR_quantum_=_90
+Simulation time is 	34.0154	 minutes
+The Average waiting time of 	RR_quantum_=_90	 is 23.6748	 minutes
+The Average turnaround time of 	RR_quantum_=_90	 is 26.3082	 minutes
+The Average CPU utilization of 	RR_quantum_=_90	 is 0.77419
+Throughput rate is 	17.6391/hour
+Simulation 	RR_quantum_=_95
+Simulation time is 	36.0089	 minutes
+The Average waiting time of 	RR_quantum_=_95	 is 25.465	 minutes
+The Average turnaround time of 	RR_quantum_=_95	 is 28.3399	 minutes
+The Average CPU utilization of 	RR_quantum_=_95	 is 0.798383
+Throughput rate is 	16.6625/hour
+Simulation 	RR_quantum_=_100
+Simulation time is 	34.7082	 minutes
+The Average waiting time of 	RR_quantum_=_100	 is 25.1507	 minutes
+The Average turnaround time of 	RR_quantum_=_100	 is 27.92	 minutes
+The Average CPU utilization of 	RR_quantum_=_100	 is 0.797858
+Throughput rate is 	17.287/hour
+Simulation 	RR_quantum_=_105
+Simulation time is 	40.091	 minutes
+The Average waiting time of 	RR_quantum_=_105	 is 29.303	 minutes
+The Average turnaround time of 	RR_quantum_=_105	 is 32.526	 minutes
+The Average CPU utilization of 	RR_quantum_=_105	 is 0.803921
+Throughput rate is 	14.9659/hour
+Simulation 	RR_quantum_=_110
+Simulation time is 	42.0805	 minutes
+The Average waiting time of 	RR_quantum_=_110	 is 31.7536	 minutes
+The Average turnaround time of 	RR_quantum_=_110	 is 35.2378	 minutes
+The Average CPU utilization of 	RR_quantum_=_110	 is 0.827996
+Throughput rate is 	14.2584/hour
+Simulation 	RR_quantum_=_115
+Simulation time is 	39.902	 minutes
+The Average waiting time of 	RR_quantum_=_115	 is 29.7771	 minutes
+The Average turnaround time of 	RR_quantum_=_115	 is 33.0446	 minutes
+The Average CPU utilization of 	RR_quantum_=_115	 is 0.818881
+Throughput rate is 	15.0368/hour
+Simulation 	RR_quantum_=_120
+Simulation time is 	35.0119	 minutes
+The Average waiting time of 	RR_quantum_=_120	 is 25.2298	 minutes
+The Average turnaround time of 	RR_quantum_=_120	 is 28.1139	 minutes
+The Average CPU utilization of 	RR_quantum_=_120	 is 0.823746
+Throughput rate is 	17.137/hour
+Simulation 	RR_quantum_=_125
+Simulation time is 	34.9104	 minutes
+The Average waiting time of 	RR_quantum_=_125	 is 27.4021	 minutes
+The Average turnaround time of 	RR_quantum_=_125	 is 30.3999	 minutes
+The Average CPU utilization of 	RR_quantum_=_125	 is 0.858695
+Throughput rate is 	17.1868/hour
+Simulation 	RR_quantum_=_130
+Simulation time is 	34.621	 minutes
+The Average waiting time of 	RR_quantum_=_130	 is 26.0595	 minutes
+The Average turnaround time of 	RR_quantum_=_130	 is 28.9409	 minutes
+The Average CPU utilization of 	RR_quantum_=_130	 is 0.832269
+Throughput rate is 	17.3305/hour
+Simulation 	RR_quantum_=_135
+Simulation time is 	35.8647	 minutes
+The Average waiting time of 	RR_quantum_=_135	 is 25.6871	 minutes
+The Average turnaround time of 	RR_quantum_=_135	 is 28.6039	 minutes
+The Average CPU utilization of 	RR_quantum_=_135	 is 0.81327
+Throughput rate is 	16.7295/hour
+Simulation 	RR_quantum_=_140
+Simulation time is 	37.6467	 minutes
+The Average waiting time of 	RR_quantum_=_140	 is 27.3887	 minutes
+The Average turnaround time of 	RR_quantum_=_140	 is 30.4052	 minutes
+The Average CPU utilization of 	RR_quantum_=_140	 is 0.801258
+Throughput rate is 	15.9376/hour
+Simulation 	RR_quantum_=_145
+Simulation time is 	36.6756	 minutes
+The Average waiting time of 	RR_quantum_=_145	 is 28.987	 minutes
+The Average turnaround time of 	RR_quantum_=_145	 is 32.115	 minutes
+The Average CPU utilization of 	RR_quantum_=_145	 is 0.852899
+Throughput rate is 	16.3597/hour
+Simulation 	RR_quantum_=_150
+Simulation time is 	36.8763	 minutes
+The Average waiting time of 	RR_quantum_=_150	 is 25.9545	 minutes
+The Average turnaround time of 	RR_quantum_=_150	 is 28.9261	 minutes
+The Average CPU utilization of 	RR_quantum_=_150	 is 0.805837
+Throughput rate is 	16.2706/hour
+Simulation 	RR_quantum_=_155
+Simulation time is 	36.9511	 minutes
+The Average waiting time of 	RR_quantum_=_155	 is 26.5211	 minutes
+The Average turnaround time of 	RR_quantum_=_155	 is 29.5126	 minutes
+The Average CPU utilization of 	RR_quantum_=_155	 is 0.809586
+Throughput rate is 	16.2377/hour
+Simulation 	RR_quantum_=_160
+Simulation time is 	34.3349	 minutes
+The Average waiting time of 	RR_quantum_=_160	 is 25.6324	 minutes
+The Average turnaround time of 	RR_quantum_=_160	 is 28.4758	 minutes
+The Average CPU utilization of 	RR_quantum_=_160	 is 0.828134
+Throughput rate is 	17.4749/hour
+Simulation 	RR_quantum_=_165
+Simulation time is 	36.7258	 minutes
+The Average waiting time of 	RR_quantum_=_165	 is 27.0978	 minutes
+The Average turnaround time of 	RR_quantum_=_165	 is 30.1576	 minutes
+The Average CPU utilization of 	RR_quantum_=_165	 is 0.833142
+Throughput rate is 	16.3373/hour
+Simulation 	RR_quantum_=_170
+Simulation time is 	33.2927	 minutes
+The Average waiting time of 	RR_quantum_=_170	 is 24.4535	 minutes
+The Average turnaround time of 	RR_quantum_=_170	 is 27.2364	 minutes
+The Average CPU utilization of 	RR_quantum_=_170	 is 0.83588
+Throughput rate is 	18.022/hour
+Simulation 	RR_quantum_=_175
+Simulation time is 	40.524	 minutes
+The Average waiting time of 	RR_quantum_=_175	 is 30.0601	 minutes
+The Average turnaround time of 	RR_quantum_=_175	 is 33.3773	 minutes
+The Average CPU utilization of 	RR_quantum_=_175	 is 0.818577
+Throughput rate is 	14.8061/hour
+Simulation 	RR_quantum_=_180
+Simulation time is 	36.8907	 minutes
+The Average waiting time of 	RR_quantum_=_180	 is 24.966	 minutes
+The Average turnaround time of 	RR_quantum_=_180	 is 27.9116	 minutes
+The Average CPU utilization of 	RR_quantum_=_180	 is 0.798459
+Throughput rate is 	16.2643/hour
+Simulation 	RR_quantum_=_185
+Simulation time is 	37.8133	 minutes
+The Average waiting time of 	RR_quantum_=_185	 is 27.6796	 minutes
+The Average turnaround time of 	RR_quantum_=_185	 is 30.8525	 minutes
+The Average CPU utilization of 	RR_quantum_=_185	 is 0.839078
+Throughput rate is 	15.8674/hour
+Simulation 	RR_quantum_=_190
+Simulation time is 	37.2079	 minutes
+The Average waiting time of 	RR_quantum_=_190	 is 25.5083	 minutes
+The Average turnaround time of 	RR_quantum_=_190	 is 28.5127	 minutes
+The Average CPU utilization of 	RR_quantum_=_190	 is 0.80746
+Throughput rate is 	16.1256/hour
+Simulation 	RR_quantum_=_195
+Simulation time is 	33.4007	 minutes
+The Average waiting time of 	RR_quantum_=_195	 is 25.2531	 minutes
+The Average turnaround time of 	RR_quantum_=_195	 is 28.0674	 minutes
+The Average CPU utilization of 	RR_quantum_=_195	 is 0.842578
+Throughput rate is 	17.9637/hour
+Simulation 	RR_quantum_=_200
+Simulation time is 	35.167	 minutes
+The Average waiting time of 	RR_quantum_=_200	 is 24.5567	 minutes
+The Average turnaround time of 	RR_quantum_=_200	 is 27.3673	 minutes
+The Average CPU utilization of 	RR_quantum_=_200	 is 0.799215
+Throughput rate is 	17.0615/hour
+Simulation 	RR_quantum_=_205
+Simulation time is 	35.7267	 minutes
+The Average waiting time of 	RR_quantum_=_205	 is 28.0651	 minutes
+The Average turnaround time of 	RR_quantum_=_205	 is 31.1204	 minutes
+The Average CPU utilization of 	RR_quantum_=_205	 is 0.855178
+Throughput rate is 	16.7942/hour
+Simulation 	RR_quantum_=_210
+Simulation time is 	38.3929	 minutes
+The Average waiting time of 	RR_quantum_=_210	 is 30.2595	 minutes
+The Average turnaround time of 	RR_quantum_=_210	 is 33.4793	 minutes
+The Average CPU utilization of 	RR_quantum_=_210	 is 0.838642
+Throughput rate is 	15.6279/hour
+Simulation 	RR_quantum_=_215
+Simulation time is 	35.6638	 minutes
+The Average waiting time of 	RR_quantum_=_215	 is 25.8955	 minutes
+The Average turnaround time of 	RR_quantum_=_215	 is 28.8769	 minutes
+The Average CPU utilization of 	RR_quantum_=_215	 is 0.835968
+Throughput rate is 	16.8238/hour
+Simulation 	RR_quantum_=_220
+Simulation time is 	40.7883	 minutes
+The Average waiting time of 	RR_quantum_=_220	 is 29.3222	 minutes
+The Average turnaround time of 	RR_quantum_=_220	 is 32.732	 minutes
+The Average CPU utilization of 	RR_quantum_=_220	 is 0.835983
+Throughput rate is 	14.7101/hour
+Simulation 	RR_quantum_=_225
+Simulation time is 	37.8634	 minutes
+The Average waiting time of 	RR_quantum_=_225	 is 25.611	 minutes
+The Average turnaround time of 	RR_quantum_=_225	 is 28.6463	 minutes
+The Average CPU utilization of 	RR_quantum_=_225	 is 0.801655
+Throughput rate is 	15.8464/hour
+Simulation 	RR_quantum_=_230
+Simulation time is 	35.5494	 minutes
+The Average waiting time of 	RR_quantum_=_230	 is 24.5341	 minutes
+The Average turnaround time of 	RR_quantum_=_230	 is 27.363	 minutes
+The Average CPU utilization of 	RR_quantum_=_230	 is 0.795749
+Throughput rate is 	16.8779/hour
+Simulation 	RR_quantum_=_235
+Simulation time is 	37.5965	 minutes
+The Average waiting time of 	RR_quantum_=_235	 is 27.3889	 minutes
+The Average turnaround time of 	RR_quantum_=_235	 is 30.4609	 minutes
+The Average CPU utilization of 	RR_quantum_=_235	 is 0.817111
+Throughput rate is 	15.9589/hour
+Simulation 	RR_quantum_=_240
+Simulation time is 	37.9404	 minutes
+The Average waiting time of 	RR_quantum_=_240	 is 25.8951	 minutes
+The Average turnaround time of 	RR_quantum_=_240	 is 28.956	 minutes
+The Average CPU utilization of 	RR_quantum_=_240	 is 0.806776
+Throughput rate is 	15.8143/hour
+Simulation 	RR_quantum_=_245
+Simulation time is 	36.2946	 minutes
+The Average waiting time of 	RR_quantum_=_245	 is 25.8373	 minutes
+The Average turnaround time of 	RR_quantum_=_245	 is 28.8292	 minutes
+The Average CPU utilization of 	RR_quantum_=_245	 is 0.824326
+Throughput rate is 	16.5314/hour
+Simulation 	RR_quantum_=_250
+Simulation time is 	37.0422	 minutes
+The Average waiting time of 	RR_quantum_=_250	 is 25.8344	 minutes
+The Average turnaround time of 	RR_quantum_=_250	 is 28.8451	 minutes
+The Average CPU utilization of 	RR_quantum_=_250	 is 0.812781
+Throughput rate is 	16.1977/hour
+Simulation 	RR_quantum_=_255
+Simulation time is 	39.8256	 minutes
+The Average waiting time of 	RR_quantum_=_255	 is 27.6872	 minutes
+The Average turnaround time of 	RR_quantum_=_255	 is 30.933	 minutes
+The Average CPU utilization of 	RR_quantum_=_255	 is 0.814993
+Throughput rate is 	15.0657/hour
+Simulation 	RR_quantum_=_260
+Simulation time is 	36.5203	 minutes
+The Average waiting time of 	RR_quantum_=_260	 is 27.1991	 minutes
+The Average turnaround time of 	RR_quantum_=_260	 is 30.2835	 minutes
+The Average CPU utilization of 	RR_quantum_=_260	 is 0.84458
+Throughput rate is 	16.4292/hour
+Simulation 	RR_quantum_=_265
+Simulation time is 	34.274	 minutes
+The Average waiting time of 	RR_quantum_=_265	 is 24.5877	 minutes
+The Average turnaround time of 	RR_quantum_=_265	 is 27.3691	 minutes
+The Average CPU utilization of 	RR_quantum_=_265	 is 0.811519
+Throughput rate is 	17.506/hour
+Simulation 	RR_quantum_=_270
+Simulation time is 	36.2505	 minutes
+The Average waiting time of 	RR_quantum_=_270	 is 25.2351	 minutes
+The Average turnaround time of 	RR_quantum_=_270	 is 28.1911	 minutes
+The Average CPU utilization of 	RR_quantum_=_270	 is 0.815451
+Throughput rate is 	16.5515/hour
+Simulation 	RR_quantum_=_275
+Simulation time is 	35.958	 minutes
+The Average waiting time of 	RR_quantum_=_275	 is 26.0111	 minutes
+The Average turnaround time of 	RR_quantum_=_275	 is 29.023	 minutes
+The Average CPU utilization of 	RR_quantum_=_275	 is 0.837616
+Throughput rate is 	16.6862/hour
+Simulation 	RR_quantum_=_280
+Simulation time is 	35.6754	 minutes
+The Average waiting time of 	RR_quantum_=_280	 is 25.1925	 minutes
+The Average turnaround time of 	RR_quantum_=_280	 is 28.1624	 minutes
+The Average CPU utilization of 	RR_quantum_=_280	 is 0.832462
+Throughput rate is 	16.8183/hour
+Simulation 	RR_quantum_=_285
+Simulation time is 	38.091	 minutes
+The Average waiting time of 	RR_quantum_=_285	 is 27.9598	 minutes
+The Average turnaround time of 	RR_quantum_=_285	 is 31.0783	 minutes
+The Average CPU utilization of 	RR_quantum_=_285	 is 0.818697
+Throughput rate is 	15.7517/hour
+Simulation 	RR_quantum_=_290
+Simulation time is 	34.9937	 minutes
+The Average waiting time of 	RR_quantum_=_290	 is 23.8327	 minutes
+The Average turnaround time of 	RR_quantum_=_290	 is 26.5779	 minutes
+The Average CPU utilization of 	RR_quantum_=_290	 is 0.784476
+Throughput rate is 	17.1459/hour
+Simulation 	RR_quantum_=_295
+Simulation time is 	34.1474	 minutes
+The Average waiting time of 	RR_quantum_=_295	 is 27.6891	 minutes
+The Average turnaround time of 	RR_quantum_=_295	 is 30.6671	 minutes
+The Average CPU utilization of 	RR_quantum_=_295	 is 0.872084
+Throughput rate is 	17.5709/hour
+Simulation 	RR_quantum_=_300
+Simulation time is 	35.2917	 minutes
+The Average waiting time of 	RR_quantum_=_300	 is 25.1707	 minutes
+The Average turnaround time of 	RR_quantum_=_300	 is 28.0389	 minutes
+The Average CPU utilization of 	RR_quantum_=_300	 is 0.812704
+Throughput rate is 	17.0012/hour
+Simulation 	RR_quantum_=_305
+Simulation time is 	36.7721	 minutes
+The Average waiting time of 	RR_quantum_=_305	 is 25.8141	 minutes
+The Average turnaround time of 	RR_quantum_=_305	 is 28.8693	 minutes
+The Average CPU utilization of 	RR_quantum_=_305	 is 0.83085
+Throughput rate is 	16.3167/hour
+Simulation 	RR_quantum_=_310
+Simulation time is 	39.74	 minutes
+The Average waiting time of 	RR_quantum_=_310	 is 29.3121	 minutes
+The Average turnaround time of 	RR_quantum_=_310	 is 32.5938	 minutes
+The Average CPU utilization of 	RR_quantum_=_310	 is 0.825793
+Throughput rate is 	15.0981/hour
+Simulation 	RR_quantum_=_315
+Simulation time is 	38.3318	 minutes
+The Average waiting time of 	RR_quantum_=_315	 is 26.8539	 minutes
+The Average turnaround time of 	RR_quantum_=_315	 is 29.9747	 minutes
+The Average CPU utilization of 	RR_quantum_=_315	 is 0.814149
+Throughput rate is 	15.6528/hour
+Simulation 	RR_quantum_=_320
+Simulation time is 	36.9129	 minutes
+The Average waiting time of 	RR_quantum_=_320	 is 25.504	 minutes
+The Average turnaround time of 	RR_quantum_=_320	 is 28.4861	 minutes
+The Average CPU utilization of 	RR_quantum_=_320	 is 0.807872
+Throughput rate is 	16.2545/hour
+Simulation 	RR_quantum_=_325
+Simulation time is 	36.3161	 minutes
+The Average waiting time of 	RR_quantum_=_325	 is 25.7214	 minutes
+The Average turnaround time of 	RR_quantum_=_325	 is 28.7449	 minutes
+The Average CPU utilization of 	RR_quantum_=_325	 is 0.832553
+Throughput rate is 	16.5216/hour
+Simulation 	RR_quantum_=_330
+Simulation time is 	37.9181	 minutes
+The Average waiting time of 	RR_quantum_=_330	 is 27.637	 minutes
+The Average turnaround time of 	RR_quantum_=_330	 is 30.8054	 minutes
+The Average CPU utilization of 	RR_quantum_=_330	 is 0.835593
+Throughput rate is 	15.8236/hour
+Simulation 	RR_quantum_=_335
+Simulation time is 	33.4695	 minutes
+The Average waiting time of 	RR_quantum_=_335	 is 23.8282	 minutes
+The Average turnaround time of 	RR_quantum_=_335	 is 26.6021	 minutes
+The Average CPU utilization of 	RR_quantum_=_335	 is 0.828769
+Throughput rate is 	17.9268/hour
+Simulation 	RR_quantum_=_340
+Simulation time is 	41.709	 minutes
+The Average waiting time of 	RR_quantum_=_340	 is 29.8707	 minutes
+The Average turnaround time of 	RR_quantum_=_340	 is 33.3083	 minutes
+The Average CPU utilization of 	RR_quantum_=_340	 is 0.824187
+Throughput rate is 	14.3854/hour
+Simulation 	RR_quantum_=_345
+Simulation time is 	39.4521	 minutes
+The Average waiting time of 	RR_quantum_=_345	 is 29.3021	 minutes
+The Average turnaround time of 	RR_quantum_=_345	 is 32.5659	 minutes
+The Average CPU utilization of 	RR_quantum_=_345	 is 0.827284
+Throughput rate is 	15.2083/hour
